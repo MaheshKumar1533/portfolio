@@ -60,7 +60,7 @@ function App() {
               </a>
             </div>
 
-            <button>Download Resume</button>
+            <button onClick={() => window.open('/resume.pdf', '_blank')}>Download Resume</button>
           </div>
         </div>
       </section>
