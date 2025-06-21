@@ -292,7 +292,6 @@ function App() {
               <i className="fas fa-phone"></i>
             </a>
           </div>
-          <p>&copy; 2025 Vaileti Mahesh Kumar. All rights reserved.</p>
         </div>
       </footer>
     </div>
